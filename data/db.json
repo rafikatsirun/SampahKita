@@ -1,0 +1,40 @@
+{
+  "mahasiswa": [
+    {
+      "nama": "Rafi",
+      "nim": "21/483220/SV/20117",
+      "kelas": "B",
+      "jeniskelamin": "Laki-laki",
+      "color": "#F00124",
+      "icon": "user",
+      "id": 6
+    },
+    {
+      "nama": "Rafael",
+      "nim": "21/544333/KT/21311",
+      "kelas": "B",
+      "jeniskelamin": "Laki-laki",
+      "color": "#G8291",
+      "icon": "dog",
+      "id": 7
+    },
+    {
+      "nama": "Ravio",
+      "nim": "21/463726/FT/92818",
+      "kelas": "A",
+      "jeniskelamin": "Laki-laki",
+      "color": "#86A789",
+      "icon": "rocket",
+      "id": 8
+    },
+    {
+      "nama": "Rafi ",
+      "nim": "21/483220/SV/20117",
+      "kelas": "B",
+      "jeniskelamin": "Laki-laki",
+      "color": "#3A4D39",
+      "icon": "ghost",
+      "id": 9
+    }
+  ]
+}
